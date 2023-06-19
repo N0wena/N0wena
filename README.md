@@ -8,7 +8,6 @@ I love coding 👨‍💻, drinking tea ☕️ and making people happy 🎊.
 [![Telegram](https://img.shields.io/badge/Telegram-Dmitry-1686b1)](https://t.me/n0wena)
 
 - 🏢 Frontend Developer at SimbirSoft
-- 📍 Currently in Phuket, Thailand 🇹🇭
 - ✉️ You can reach me at via [telegram](https://t.me/N0wena)
 
 <!-- **My CV:**
