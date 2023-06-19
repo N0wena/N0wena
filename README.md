@@ -32,6 +32,8 @@ I love coding 👨‍💻, drinking tea ☕️ and making people happy 🎊.
 - Telegram: [https://t.me/n0wena](https://t.me/n0wena)  
 ## CV
 
+- PDF: https://n0wena.github.io/DmitryLi_cv.pdf
+
 ## Statistics  
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0wena&show_icons=true&theme=prussian)  -->
