@@ -3,12 +3,9 @@
 
 I love coding 👨‍💻, drinking tea ☕️ and making people happy 🎊.
 
-[![CV](https://img.shields.io/badge/CV-Dmitry%20Li-14b420)](https://github.com/N0wena)
+[![CV](https://img.shields.io/badge/CV-Dmitry%20Li-14b420)](https://n0wena.github.io/DmitryLi_cv.pdf)
 [![Email](https://img.shields.io/badge/Email-Lafleksia@gmail.com-f39f37)](mailto:as.lafleksia@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Dmitry-1686b1)](https://t.me/n0wena)
-
-- 🏢 Frontend Developer at SimbirSoft
-- ✉️ You can reach me at via [telegram](https://t.me/N0wena)
 
 <!-- **My CV:**
 - **direct download [Dmitrii Li.pdf](https://raw.githubusercontent.com/)** -->
