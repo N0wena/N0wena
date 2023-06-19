@@ -17,6 +17,8 @@ I love coding 👨‍💻, drinking tea ☕️ and making people happy 🎊.
 ![Vue](https://img.shields.io/badge/-Vue-20232A?style=for-the-badge&logo=vuedotjs) ![Vuex](https://img.shields.io/badge/-Vuex-20232A?style=for-the-badge&logo=vuedotjs)  ![Pinia](https://img.shields.io/badge/-Pinia-20232A?style=for-the-badge&logo=vuedotjs)  ![Nuxt](https://img.shields.io/badge/-Nuxt-20232A?style=for-the-badge&logo=nuxtdotjs)  
 ![Vuetify](https://img.shields.io/badge/-Vuetify-20232A?style=for-the-badge&logo=vuetify)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCss-20232A?style=for-the-badge&logo=tailwindcss)  
 ![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git)  ![Webpack](https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=webpack)  
+![Jest](https://img.shields.io/badge/-Jest-20232A?style=for-the-badge&logo=jest)  ![Storybook](https://img.shields.io/badge/-Storybook-20232A?style=for-the-badge&logo=storybook)  
+![Webpack](https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=webpack)  ![Vite](https://img.shields.io/badge/-Vite-20232A?style=for-the-badge&logo=vite)
 ![BEM](https://img.shields.io/badge/-BEM-20232A?style=for-the-badge&logo=BEM)  ![VS Code](https://img.shields.io/badge/-VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)  ![Figma](https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=figma)
 
 ### Want to work with  
