@@ -14,7 +14,8 @@ I love coding 👨‍💻, drinking tea ☕️ and making people happy 🎊.
 
 ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-20232A?style=for-the-badge&logo=css3)  ![SCSS](https://img.shields.io/badge/-SASS-20232A?style=for-the-badge&logo=SASS)  
 ![JS](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=TypeScript)  
-![Vue](https://img.shields.io/badge/-Vue-20232A?style=for-the-badge&logo=vuedotjs) ![Vuex](https://img.shields.io/badge/-Vuex-20232A?style=for-the-badge&logo=vuedotjs)  ![Pinia](https://img.shields.io/badge/-Pinia-20232A?style=for-the-badge&logo=vuedotjs)  
+![Vue](https://img.shields.io/badge/-Vue-20232A?style=for-the-badge&logo=vuedotjs) ![Vuex](https://img.shields.io/badge/-Vuex-20232A?style=for-the-badge&logo=vuedotjs)  ![Pinia](https://img.shields.io/badge/-Pinia-20232A?style=for-the-badge&logo=vuedotjs)  ![Nuxt](https://img.shields.io/badge/-Nuxt-20232A?style=for-the-badge&logo=nuxtdotjs)  
+![Vuetify](https://img.shields.io/badge/-Vuetify-20232A?style=for-the-badge&logo=vuetify)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCss-20232A?style=for-the-badge&logo=tailwindcss)  
 ![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git)  ![Webpack](https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=webpack)  
 ![BEM](https://img.shields.io/badge/-BEM-20232A?style=for-the-badge&logo=BEM)  ![VS Code](https://img.shields.io/badge/-VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)  ![Figma](https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=figma)
 
