@@ -3,7 +3,7 @@
 
 I love coding 👨‍💻, drinking tea ☕️ and making people happy 🎊.
 
-[![CV](https://img.shields.io/badge/CV-Dmitry%20Li-14b420)](https://n0wena.github.io/DmitryLi_cv.pdf)
+<!-- [![CV](https://img.shields.io/badge/CV-Dmitry%20Li-14b420)](https://n0wena.github.io/DmitryLi_cv.pdf) -->
 [![Email](https://img.shields.io/badge/Email-Lafleksia@gmail.com-f39f37)](mailto:as.lafleksia@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Dmitry-1686b1)](https://t.me/theus_code)
 
@@ -31,7 +31,7 @@ I love coding 👨‍💻, drinking tea ☕️ and making people happy 🎊.
 - Email: [Lafleksia@gmail.com](mailto:lafleksia@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/n0wena](https://www.linkedin.com/in/n0wena)
 - Telegram: [https://t.me/n0wena](https://t.me/theus_code)  
-## CV
+<!-- ## CV -->
 
 - PDF: https://n0wena.github.io/DmitryLi_cv.pdf
 
